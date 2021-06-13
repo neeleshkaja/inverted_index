@@ -1,0 +1,7 @@
+fileName:	inverted_index.py
+Duration: 	45sec
+Output:		Total unique words: 123457
+
+fileName:	inverted_index_multi_threading.py
+Duration: 	1mins, 25sec
+Output:		Total unique words: 123457
